@@ -160,7 +160,7 @@ Urgency terms detected: 1
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/smart-ticket-triage.git
+git clone https://github.com/Aashish-05/FUTURE_ML_02
 cd smart-ticket-triage
 
 # 2. Install dependencies
@@ -231,6 +231,3 @@ pip install -r requirements.txt
 
 ---
 
-## 📄 License
-
-Open-source under the MIT License.
